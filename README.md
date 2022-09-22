@@ -90,7 +90,7 @@ Imprima a quantidade de litros necessária para realizar a viagem, com três dí
 | ------------------ | ---------------- |
 | 22 67              | 122.833          |
 
-### Análise de dados com Python e Pandas
+### Desafio de Projeto: Análise de dados com Python e Pandas
 
 Arquivo: ifood_data_business_analysis.ipynb
 
