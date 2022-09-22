@@ -89,3 +89,9 @@ Imprima a quantidade de litros necessária para realizar a viagem, com três dí
 | Exemplo de Entrada | Exemplo de Saída |
 | ------------------ | ---------------- |
 | 22 67              | 122.833          |
+
+### Análise de dados com Python e Pandas
+
+Arquivo: ifood_data_business_analysis.ipynb
+
+Análise de dados com Python e Pandas do repositório [Data Analysts for the iFood Brain](https://github.com/ifood/ifood-data-business-analyst-test). Foi feita uma análise exploratória de dados para compreensão das *features* e tratamento de outliers, para em seguida aplicar o algoritmo de segmentação K-Means para determinar a melhor decisão de negócio.
