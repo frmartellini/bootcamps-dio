@@ -169,3 +169,9 @@ A entrada contém apenas um valor de ponto flutuante, que pode ser maior ou igua
 | 2000              | Novo salario: 2200,00  |
 |                   | Reajuste ganho: 200,00 |
 |                   | Em percentual: 10 %    |
+
+### Descomplicando a criação de pacotes de processamento de imagens em Python
+
+Pasta: package_template
+
+Projeto de aprendizado de criação de um pacote de processamento de imagens em Python.
