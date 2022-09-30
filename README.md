@@ -160,7 +160,6 @@ A entrada contém apenas um valor de ponto flutuante, que pode ser maior ou igua
 | ----------------- | ---------------------- |
 | 1000              | Novo salario: 1120,00  |
 |                   | Reajuste ganho: 120,00 |
-|                   |                        |
 |                   | Em percentual: 12 %    |
 
 **Exemplo 2**
@@ -168,7 +167,5 @@ A entrada contém apenas um valor de ponto flutuante, que pode ser maior ou igua
 | Entrada           | Saída                  |
 | ----------------- | ---------------------- |
 | 2000              | Novo salario: 2200,00  |
-|                   |                        |
 |                   | Reajuste ganho: 200,00 |
-|                   |                        |
 |                   | Em percentual: 10 %    |
