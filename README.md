@@ -175,3 +175,9 @@ A entrada contém apenas um valor de ponto flutuante, que pode ser maior ou igua
 Pasta: package_template
 
 Projeto de aprendizado de criação de um pacote de processamento de imagens em Python.
+
+### Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil
+
+Arquivo: evolucao_covid19_sp.ipynb
+
+Vamos investigar os dados da disseminação do COVID-19 no Brasil. Iremos estudar os padrões de disseminação da doença, investigar os números de infectados, de recuperados e de óbitos, para construir modelos com Python e Machine Learning para prever os números nos próximos dias e o ponto de virada da curva de infecção baseado em alguns cenários.
